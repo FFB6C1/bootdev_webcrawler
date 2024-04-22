@@ -1,0 +1,26 @@
+{
+  "name": "bootdev_webcrawler",
+  "version": "1.0.0",
+  "description": "Web Crawler project for boot.dev",
+  "main": "index.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FFB6C1/bootdev_webcrawler.git"
+  },
+  "author": "chesca",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FFB6C1/bootdev_webcrawler/issues"
+  },
+  "homepage": "https://github.com/FFB6C1/bootdev_webcrawler#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "jsdom": "^24.0.0"
+  }
+}
